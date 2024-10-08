@@ -12,7 +12,11 @@ function AgentDashboard() {
     <div className="Agent">
       <Header />
       <AgentHeroBanner
+<<<<<<< HEAD
         header="Mohamed Bassaddouk"
+=======
+        header="Zelipha Onyeoma"
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
         text="Expert dealer in Residential Homes and Luxury apartments. Licensed in Canada and Asia. Trusted by experts and companies with 4.5 rating in Trustpilot."
         // TODO implement: switch over to Contact Agent whenever page is viewed by public user.
         label="List a Property"
