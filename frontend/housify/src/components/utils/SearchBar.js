@@ -15,11 +15,23 @@ const SearchBar = (props) => {
               <option value="" className="mr-6">
                 Location
               </option>
-              <option value="" className="">
-                Ghana
+              <option value="" className="text-black">
+                Casablanca
               </option>
-              <option value="" className="">
-                Kenya
+              <option value="" className="text-black">
+                Rabat
+              </option>
+              <option value="" className="text-black">
+                Marrakech
+              </option>
+              <option value="" className="text-black">
+                Tanger
+              </option>
+              <option value="" className="text-black">
+                Agadir
+              </option>
+              <option value="" className="text-black">
+                Meknès
               </option>
             </select>
           </div>
@@ -29,14 +41,20 @@ const SearchBar = (props) => {
               id="location"
               className="bg-transparent w-full p-2 focus:bg-transparent rounded-lg"
             >
-              <option value="" className="">
+              <option value="" className="text-black">
                 Property-Type
               </option>
-              <option value="" className="">
+              <option value="" className="text-black">
+                Reyad
+              </option>
+              <option value="" className="text-black">
                 Duplex
               </option>
-              <option value="" className="">
-                Bungalow
+              <option value="" className="text-black">
+                Studio
+              </option>
+              <option value="" className="text-black">
+                Appartement
               </option>
             </select>
           </div>
@@ -46,19 +64,19 @@ const SearchBar = (props) => {
               id="location"
               className="bg-transparent w-full p-2 focus:bg-transparent rounded-lg"
             >
-              <option value="" className="">
+              <option value="" className="text-black">
                 Max-Price
               </option>
-              <option value="" className="">
+              <option value="" className="text-black">
                 $58,000
               </option>
-              <option value="" className="">
+              <option value="" className="text-black">
                 $54,000
               </option>
             </select>
           </div>
-          <div className=" p-2 ">
-            <button className="rounded-full px-6">Submit</button>
+          <div className="p-2 ml-auto">
+            <button className="rounded-full ps-6">Submit</button>
           </div>
         </div>
       </form>

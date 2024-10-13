@@ -5,7 +5,7 @@ import { GrUserExpert } from "react-icons/gr";
 import { FaClock } from "react-icons/fa";
 const Credibility = (props) => {
   return (
-    <div className="Credibility w-full max-w-[1440px] my-20 ">
+    <div className="Credibility w-full my-20 ">
       {/* section label */}
       <div className="pb-6 text-center">
         <h3 className="text-purple-700"> {props.header} </h3>

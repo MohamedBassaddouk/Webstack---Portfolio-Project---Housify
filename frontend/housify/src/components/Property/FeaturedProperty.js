@@ -15,7 +15,7 @@ const FeaturedProperty = ({ items, text, header }) => {
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
           {items.map(({ id, title, url, price, purpose, state }) => (
             <div className="p-10" key={id}>
-              <PropertyCard img={url} price={price} state={state} purpose={purpose} title={title} />
+              <PropertyCard url={url} price={price} state={state} purpose={purpose} title={title} />
             </div>
           ))}
         </div>

@@ -14,8 +14,8 @@ function ContactDetails() {
               <div className="flex justify-center text-40 pb-4">
                 {/* <HiOutlineLocationMarker /> */}
               </div>
-              <h5>Nigeria</h5>
-              <p className="p4">7 Mcc Avenue, Osborn Center, Lagos</p>
+              <h5>Morocco</h5>
+              <p className="p4">320 zerktouni maarif, Casablanca</p>
             </div>
           </div>
           <div className="text-center">
@@ -33,7 +33,7 @@ function ContactDetails() {
                 {/* <AiOutlinePhone /> */}
               </div>
               <h5>Call Us</h5>
-              <p className="p4">+14 4577 8901</p>
+              <p className="p4">+212 4577 8901</p>
             </div>
           </div>
           <div className="text-center">
