@@ -18,7 +18,7 @@ const ExpertSection = (props) => {
             <ExpertCard name="Lucy Jane" linkedin="" contact="" />
           </div>
           <div className="p-2">
-            <ExpertCard name="Zelipha On" linkedin="" contact="" />
+            <ExpertCard name="Mohamed Bassaddouk" linkedin="" contact="" />
           </div>
           <div className="p-2">
             <ExpertCard name="Mildred Uz" linkedin="" contact="" />
