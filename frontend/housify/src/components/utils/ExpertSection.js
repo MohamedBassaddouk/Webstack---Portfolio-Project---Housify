@@ -13,19 +13,12 @@ const ExpertSection = (props) => {
         </div>
 
         {/* property-card-container */}
-        <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-4">
-          <div className="p-2">
-            <ExpertCard name="Lucy Jane" linkedin="" contact="" />
-          </div>
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
+          <div></div>
           <div className="p-2">
             <ExpertCard name="Mohamed Bassaddouk" linkedin="" contact="" />
           </div>
-          <div className="p-2">
-            <ExpertCard name="Mildred Uz" linkedin="" contact="" />
-          </div>
-          <div className="p-2">
-            <ExpertCard name="Robert Az" linkedin="" contact="" />
-          </div>
+          <div></div>
         </div>
         <div className="w-full pt-10 flex justify-center">
           <button className="mx-4">Load More</button>
