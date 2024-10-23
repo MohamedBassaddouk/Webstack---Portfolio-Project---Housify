@@ -1,5 +1,4 @@
 # Housify
-![Housify](https://github.com/emmaudeji/Webstack-Portfolio-Project/blob/main/welcome.png)
 
 `Group project` `Web Portfolio project`
 
@@ -9,11 +8,8 @@
 ### Task - Full Stack webstack portfolio project(Housify)
 
 ### alx_africa
-<<<<<<< HEAD
+
 The ALX Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
-=======
-The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
->>>>>>> 88ccfd9... Update dependencies and improve configuration
 
 ## Starting the project
 
@@ -33,18 +29,6 @@ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersi
 
 `React` `Tailwind CSS` `Express JS` `Mongo DB`
 
-<<<<<<< HEAD
 AUTHOR
 
 * Mohamed Bassaddouk **[Github](https://github.com/MohamedBassaddouk)** , **[Linkedin](https://www.linkedin.com/in/mohamed-bassaddouk-b0b494276/)**
-=======
-AUTHORS
-
-* Mildred Makori **[Github](https://github.com/kwamboka1)** , **[twitter](https://twitter.com/makori_mildred)**, **[Linkedin](https://www.linkedin.com/in/mildred-makori-892652120/)**
-* Emma Udeji **[Github](https://github.com/emmaudeji)** , **[twitter](https://twitter.com/)**, **[Linkedin](https://linkedin.com/in/emmanuel-udeji)**
-* Zelipha Wambui **[Github](https://github.com/Zelipha)**, **[twitter](https://twitter.com/Miss_zeliq)**, **[Linkedin](https://www.linkedin.com/in/zelipha-wambui)**
-* Robert Mudzonga **[Github](https://github.com/RobertMudzonga)**, **[twitter]()**, **[Linkedin](linkedin.com/in/robert-mudzonga-06b1ba21a)**
-
-
-> Show love by leaving a ⭐️ if you like this project and don't forget to fork, break and modify 
->>>>>>> 88ccfd9... Update dependencies and improve configuration
