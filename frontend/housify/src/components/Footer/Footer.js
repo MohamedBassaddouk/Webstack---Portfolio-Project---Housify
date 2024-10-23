@@ -81,9 +81,14 @@ function Footer() {
         </div>
       </div>
 
+<<<<<<< HEAD
       <div className="text-center py-6 text-white col-offset-4">
         <p class="text-xl">© 2024 Housify.</p>
         <p class="text-md"> All rights reserved. Unauthorized use and/or duplication of this material without express and written permission from this site’s author and/or owner is strictly prohibited.</p>
+=======
+      <div className="text-center py-6 text-black text-xl">
+        <p>Copyright Housify 2022</p>
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
       </div>
     </div>
   );

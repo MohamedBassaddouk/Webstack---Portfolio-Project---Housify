@@ -1,5 +1,4 @@
 # Housify
-![Housify](https://github.com/emmaudeji/Webstack-Portfolio-Project/blob/main/welcome.png)
 
 `Group project` `Web Portfolio project`
 
@@ -9,7 +8,8 @@
 ### Task - Full Stack webstack portfolio project(Housify)
 
 ### alx_africa
-The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
+
+The ALX Software Engineering programme is a 12-month(70h/week) immersive programme that engages technology enthusiasts and budding software engineers in a variety of programmes across in-demand tech disciplines to prepare them for a global career as a Full-Stack Developer.
 
 ## Starting the project
 
@@ -29,10 +29,6 @@ The ALX Holberton Software Engineering programme is a 12-month(70h/week) immersi
 
 `React` `Tailwind CSS` `Express JS` `Mongo DB`
 
-AUTHORS
+AUTHOR
 
 * Mohamed Bassaddouk **[Github](https://github.com/MohamedBassaddouk)** , **[Linkedin](https://www.linkedin.com/in/mohamed-bassaddouk-b0b494276/)**
-
-
-
-> Show love by leaving a ⭐️ if you like this project and don't forget to fork, break and modify 

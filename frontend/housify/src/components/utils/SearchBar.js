@@ -15,6 +15,7 @@ const SearchBar = (props) => {
               <option value="" className="mr-6">
                 Location
               </option>
+<<<<<<< HEAD
               <option value="" className="text-black">
                 Casablanca
               </option>
@@ -32,6 +33,13 @@ const SearchBar = (props) => {
               </option>
               <option value="" className="text-black">
                 Meknès
+=======
+              <option value="" className="">
+                Ghana
+              </option>
+              <option value="" className="">
+                Kenya
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
               </option>
             </select>
           </div>
@@ -41,6 +49,7 @@ const SearchBar = (props) => {
               id="location"
               className="bg-transparent w-full p-2 focus:bg-transparent rounded-lg"
             >
+<<<<<<< HEAD
               <option value="" className="text-black">
                 Property-Type
               </option>
@@ -55,6 +64,16 @@ const SearchBar = (props) => {
               </option>
               <option value="" className="text-black">
                 Appartement
+=======
+              <option value="" className="">
+                Property-Type
+              </option>
+              <option value="" className="">
+                Duplex
+              </option>
+              <option value="" className="">
+                Bungalow
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
               </option>
             </select>
           </div>
@@ -64,6 +83,7 @@ const SearchBar = (props) => {
               id="location"
               className="bg-transparent w-full p-2 focus:bg-transparent rounded-lg"
             >
+<<<<<<< HEAD
               <option value="" className="text-black">
                 Max-Price
               </option>
@@ -71,12 +91,26 @@ const SearchBar = (props) => {
                 $58,000
               </option>
               <option value="" className="text-black">
+=======
+              <option value="" className="">
+                Max-Price
+              </option>
+              <option value="" className="">
+                $58,000
+              </option>
+              <option value="" className="">
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
                 $54,000
               </option>
             </select>
           </div>
+<<<<<<< HEAD
           <div className="p-2 ml-auto">
             <button className="rounded-full ps-6">Submit</button>
+=======
+          <div className=" p-2 ">
+            <button className="rounded-full px-6">Submit</button>
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
           </div>
         </div>
       </form>

@@ -1,5 +1,9 @@
 import React, { useState } from "react";
+<<<<<<< HEAD
 import Mohamed from "../../assets/med2.jpg";
+=======
+import Zeliq from "../../assets/Zeliq.jpg";
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
 import { NavLink } from "react-router-dom";
 import MoreProperty from "../Property/MoreProperty";
 import ListPropertyForm from "../Templates/ListPropertyForm";
@@ -27,6 +31,7 @@ const AgentHeroBanner = (props) => {
                   <h5 className="inline-block mr-4">phonenumber</h5>
                   <p>+234-890-2033-333</p>
                   <h5 className="inline-block mr-4">email</h5>
+<<<<<<< HEAD
                   <p>Mohammed@email.com</p>
                 </div>
                 <div className="">
@@ -36,6 +41,17 @@ const AgentHeroBanner = (props) => {
                   <p>@Mohammed</p>
                   <h5 className="inline-block mr-4">Instagram</h5>
                   <p>@Mohammed_properties</p>
+=======
+                  <p>zelipha@email.com</p>
+                </div>
+                <div className="">
+                  <h5 className="inline-block mr-4">linkedin</h5>
+                  <p>https://linkedin.com/in/zelipha</p>
+                  <h5 className="inline-block mr-4">twitter</h5>
+                  <p>@zelipha</p>
+                  <h5 className="inline-block mr-4">Instagram</h5>
+                  <p>@zelipha_properties</p>
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
                 </div>
 
                 <button className="mt-10 w-[200px]">
@@ -51,8 +67,13 @@ const AgentHeroBanner = (props) => {
               <div className="img-wrap overflow-hidden bg-zinc-700 rounded-[100px] rounded-tr-none md:w-[90%] md:ml-auto relative">
                 <img
                   className="w-full h-[70vh] object-cover"
+<<<<<<< HEAD
                   src={Mohamed}
                   alt="Mohamed"
+=======
+                  src={Zeliq}
+                  alt="Zeliq"
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
                 />
               </div>
               <div className="absolute top-[80%]">
@@ -68,7 +89,11 @@ const AgentHeroBanner = (props) => {
       {isClicked ? (
         <ListPropertyForm />
       ) : (
+<<<<<<< HEAD
         <MoreProperty header="Properties" text="Listed Properties By Mohammed" />
+=======
+        <MoreProperty header="Properties" text="Listed Properties By Zelipha" />
+>>>>>>> 88ccfd9... Update dependencies and improve configuration
       )}
     </div>
   );
